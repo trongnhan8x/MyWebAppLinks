@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# MyWebAppLinks
-=======
-# trongnhan8x.github.io
->>>>>>> main
+# my-webs-applinks.github.io
